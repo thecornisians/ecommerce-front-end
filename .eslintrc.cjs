@@ -6,7 +6,8 @@ module.exports = {
 	"extends": [
 		"eslint:recommended",
 		"plugin:react/recommended",
-		"plugin:@typescript-eslint/recommended"
+		"plugin:@typescript-eslint/recommended",
+		"prettier"
 	],
 	"overrides": [
 	],
@@ -22,15 +23,15 @@ module.exports = {
 	"rules": {
 		"indent": [
 			"error",
-			"tab"
+			"2"
 		],
 		"linebreak-style": [
 			"error",
-			"windows"
+			"unix"
 		],
 		"quotes": [
 			"error",
-			"double"
+			"single"
 		],
 		"semi": [
 			"error",
