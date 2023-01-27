@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Product 1",
+        "description": "This is the first product on the list. It is a high-quality electronic device that is perfect for everyday use.",
+        "price": 9.99,
+        "quantity": 50,
+        "category": "Electronics",
+        "brand": "Brand A",
+        "image_url": "https://www.example.com/product1.jpg",
+        "rating": 4.5,
+        "reviews": [
+            {
+                "username": "user1",
+                "comment": "I love this product! It works great and is very durable.",
+                "rating": 5
+            },
+            {
+                "username": "user2",
+                "comment": "This product is just okay. It works fine but I've had better.",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "name": "Product 2",
+        "description": "This is the second product on the list. It is a fashionable clothing item that is perfect for any occasion.",
+        "price": 19.99,
+        "quantity": 30,
+        "category": "Fashion",
+        "brand": "Brand B",
+        "image_url": "https://www.example.com/product2.jpg",
+        "rating": 4.0,
+        "reviews": [
+            {
+                "username": "user3",
+                "comment": "I love this shirt! It fits great and looks amazing.",
+                "rating": 5
+            },
+            {
+                "username": "user4",
+                "comment": "This shirt is just okay. The material is not very soft.",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "name": "Product 3",
+        "description": "This is the third product on the list. It is a high-quality home decor item that will add a touch of elegance to any room.",
+        "price": 29.99,
+        "quantity": 20,
+        "category": "Home & Garden",
+        "brand": "Brand C",
+        "image_url": "https://www.example.com/product3.jpg",
+        "rating": 4.8,
+        "reviews": [
+            {
+                "username": "user5",
+                "comment": "I am in love with this vase! It is just beautiful.",
+                "rating": 5
+            },
+            {
+                "username": "user6",
+                "comment": "This vase is not very big, but it is still nice.",
+                "rating": 4
+            }
+        ]
+    }
+]
