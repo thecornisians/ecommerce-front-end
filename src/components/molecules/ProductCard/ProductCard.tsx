@@ -12,6 +12,11 @@ export function ProductCard() {
     return (
         <div>
             <img src="" alt="" />
+            <div>
+                <div className="rating">xxx</div>
+                <div className="price">$9999</div>
+            </div>
+
         </div>
     )
 }
